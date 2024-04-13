@@ -1,0 +1,17 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .dice {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  img {
+    width: 100px;
+    height: 100px;
+    margin: 0 10px;
+  }
+  
